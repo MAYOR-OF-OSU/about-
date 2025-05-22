@@ -1,0 +1,14 @@
+.custom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: bisque;
+}
+
+.memory-img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: cover;
+}
